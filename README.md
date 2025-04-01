@@ -8,12 +8,44 @@ The instructions below will guide you to obtain a copy of the project and get it
 
 # Prerequisites 
 
-Here are the things you will need to get the Project 3.ipynb file up and running in your local machine.
+Here are the programs that you will need to install to get the Project 3.ipynb file up and running in your local machine.
 
 ```
-Anaconda (open source data science and AI distribution platform)
+Anaconda (Open source data science and AI distribution platform)
 
 Jupyter Notebook (Interactive development environment)
 
-MySql (open source relational database management system)
+MySql (Open source relational database management system)
 ```
+
+
+# Installing 
+
+Here is a series of step by step instructions how to get the development environment running.
+
+
+# Running the tests
+
+
+
+# Deployment 
+
+
+
+# Authors 
+
+- David He - Python Project 3
+
+
+
+# License 
+
+
+# Acknowledgements 
+
+
+
+
+
+
+
