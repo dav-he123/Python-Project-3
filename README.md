@@ -6,3 +6,6 @@ This is an analysis to determine if the average global sales was higher before o
 
 The instructions below will guide you to obtain a copy of the project and get it up and running on your local machine for development and testing purposes. 
 
+# Prerequisites 
+
+Here are the things you will need to get the Project 3.ipynb file up and running in your local machine.
