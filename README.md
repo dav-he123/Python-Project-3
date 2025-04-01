@@ -124,16 +124,14 @@ In order to deploy data in the table after it has been tested in MySQL using the
 
 
 
-
-
 # Authors 
 
 - David He - Project 3 (Python)
 
 
-
 # License 
 
+This project is licensed under the Durham College license - see the LICENSE.md file for details.
 
 # Acknowledgements 
 
