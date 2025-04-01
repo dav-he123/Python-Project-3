@@ -105,10 +105,30 @@ Testing for the second part of Project 3:
 # Deployment 
 
 
+In order to deploy data in the table after it has been tested in MySQL using the SQL commands shown in the Breakdown of Testing section the follow steps need to be performed:
+
+```
+1. In Jupyter Notebook go to the Project 3 Python file and input the MySQL connection code block shown in the screenshot below.
+2. Include the host, user, password, and database that you are using for the table you would like to use in the Python script.
+3. Input and download the MySQL driver in the Python environment in your localhost. This is shown in the screenshot below.
+
+```
+![Screenshot 2025-04-01 at 6 09 37 PM](https://github.com/user-attachments/assets/1629c186-0847-4537-835e-3fefb13af283)
+<img width="1326" alt="Screenshot 2025-04-01 at 6 10 55 PM" src="https://github.com/user-attachments/assets/061afc77-481f-44d3-a790-34ce88ee7ab8" />
+
+```
+4. Run each of the code blocks you would like to run in Project 3 by clicking the play button at the top of the window as shown in the screenshot below.
+
+```
+<img width="1242" alt="Screenshot 2025-04-01 at 6 14 37 PM" src="https://github.com/user-attachments/assets/a57bbca2-7583-4cef-9622-dd3eef1fe1fa" />
+
+
+
+
 
 # Authors 
 
-- David He - Python Project 3
+- David He - Project 3 (Python)
 
 
 
