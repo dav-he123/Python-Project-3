@@ -21,7 +21,16 @@ MySql (Open source relational database management system)
 
 # Installing 
 
-Here is a series of step by step instructions how to get the development environment running.
+Here is a series of step by step instructions how to get the SQL and development environment running.
+
+```
+Installing MySQL Workbench:
+
+1. Go to dev.mysql.com/downloads/workbench/.com
+2. Click "Free Download"
+3. Follow through with the steps of installing MySQL to finish installation
+```
+![Screenshot 2025-04-01 at 5 31 24 PM](https://github.com/user-attachments/assets/bec053db-cdbf-4620-876b-584c828b4910)
 
 
 ```
@@ -34,7 +43,7 @@ Installing anaconda:
 ![Screenshot 2025-04-01 at 4 48 14 PM](https://github.com/user-attachments/assets/dc7bd081-c1a1-4acd-9613-a9742b989d7a)
 
 ```
-3. Follow through with the steps of installing Anaconda
+3. Follow through with the steps of installing Anaconda to finish installation
 ```
 
 ```
@@ -57,8 +66,19 @@ Installing Jupyter Notebook in Anaconda environment:
 ```
 <img width="1308" alt="Screenshot 2025-04-01 at 5 14 22 PM" src="https://github.com/user-attachments/assets/b62da418-dc81-42fb-8c26-ec62e77654cd" />
 
-
 # Running the tests
+
+Below will be shown the explanation of running the automated tests for the Python file (Project 3). The testing will begin in MySQL workbench using SQL commands.
+
+## Breakdown of Tests
+```
+1. An initial excel file containing the data for Video Game Sales is given.
+2. Convert the file into a CSV file
+3. Import the CSV file into MySQL by right clicking on the database being used and click on Table Data Import Wizard.
+4. 
+```
+<img width="379" alt="Screenshot 2025-04-01 at 5 34 34 PM" src="https://github.com/user-attachments/assets/2282fff7-0927-499e-aaf4-3793f3c790c0" />
+
 
 
 
