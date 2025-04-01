@@ -27,8 +27,8 @@ Here is a series of step by step instructions how to get the SQL and development
 Installing MySQL Workbench:
 
 1. Go to dev.mysql.com/downloads/workbench/.com
-2. Click "Free Download"
-3. Follow through with the steps of installing MySQL to finish installation
+2. Click "Free Download".
+3. Follow through with the steps of installing MySQL to finish installation.
 ```
 ![Screenshot 2025-04-01 at 5 31 24 PM](https://github.com/user-attachments/assets/bec053db-cdbf-4620-876b-584c828b4910)
 
@@ -57,7 +57,6 @@ Installing Jupyter Notebook in Anaconda environment:
 
 ```
 4. In the Jupyter Notebook environment find the Project 3.ipynb in your folders where you saved it.
-
 ```
 <img width="1231" alt="Screenshot 2025-04-01 at 5 05 37 PM" src="https://github.com/user-attachments/assets/60f9ed62-eb0c-4df9-8287-99ae160521b7" />
 
@@ -75,11 +74,32 @@ Below will be shown the explanation of running the automated tests for the Pytho
 1. An initial excel file containing the data for Video Game Sales is given.
 2. Convert the file into a CSV file
 3. Import the CSV file into MySQL by right clicking on the database being used and click on Table Data Import Wizard.
-4. 
+4. Follow through with the steps of loading the data of the CSV file into a table within the database in MySQL.
 ```
 <img width="379" alt="Screenshot 2025-04-01 at 5 34 34 PM" src="https://github.com/user-attachments/assets/2282fff7-0927-499e-aaf4-3793f3c790c0" />
 
 
+<pre>
+</pre>
+
+After the data is loaded into a table in the database. The testing of the data can begin by extracting the requried data using SQL commands.
+
+```
+Teesting for the first part for of Project 3:
+
+1. Type in SQL commands to obtain the average global sales before and after 2005.
+2. The required answer is displayed in the console in the bottom of the screenshot shown below.
+```
+<img width="1421" alt="Screenshot 2025-04-01 at 5 42 16 PM" src="https://github.com/user-attachments/assets/a500de6d-7fea-446f-93fa-bb7327175846" />
+
+
+```
+Testing for the second part of Project 3:
+
+1. Type in SQL commands to add in a column to display pre and post 2005 for the required records.
+2. The required answer is displayed in the console in the bottom of the screenshot shown below.
+```
+<img width="1429" alt="Screenshot 2025-04-01 at 5 56 55 PM" src="https://github.com/user-attachments/assets/7ff282d9-0027-4224-9734-1f4f00dbb6a7" />
 
 
 # Deployment 
