@@ -131,7 +131,7 @@ In order to deploy data in the table after it has been tested in MySQL using the
 
 # License 
 
-This project is licensed under the Durham College license - see the LICENSE.md file for details.
+This project is licensed and is under the property of David He - see the [LICENSE.md](LICENSE.md) file for details.
 
 # Acknowledgements 
 
