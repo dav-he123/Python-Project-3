@@ -65,6 +65,17 @@ Installing Jupyter Notebook in Anaconda environment:
 ```
 <img width="1308" alt="Screenshot 2025-04-01 at 5 14 22 PM" src="https://github.com/user-attachments/assets/b62da418-dc81-42fb-8c26-ec62e77654cd" />
 
+
+# Execute Python Script in Jupyter Notebook
+
+Here is how to execute the Python Script in Jupyter Notebook.
+
+1. Click on the first code block at the top of the page. It is labelled as an arrow in the screenshot.
+2. Click on the play button, circled in red in the screenshot below
+
+<img width="1294" alt="Screenshot 2025-04-02 at 12 20 48 PM" src="https://github.com/user-attachments/assets/438f3bf4-78dd-4d21-bca5-d189bf109579" />
+
+
 # Running the tests
 
 The testing of Project 3 will begin in MySQL workbench using SQL commands.
