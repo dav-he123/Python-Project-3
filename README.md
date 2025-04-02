@@ -115,6 +115,16 @@ Testing second part of Project 3 to add in column to display pre and post 2005 f
 <img width="1429" alt="Screenshot 2025-04-01 at 5 56 55 PM" src="https://github.com/user-attachments/assets/7ff282d9-0027-4224-9734-1f4f00dbb6a7" />
 
 
+# Execute SQL Script in MySQL
+
+Here is how to execute SQL Script in MySQL.
+
+1. Make sure you are using the correct table in your database.
+2. Once the SQL command implemented. Click the lightning bolt button circled in red in the screenshot.
+3. If the SQL command executes successfully your result will display in the result grid labelled with a red arrow in the screenshot below.
+   
+<img width="1430" alt="Screenshot 2025-04-02 at 12 31 57 PM" src="https://github.com/user-attachments/assets/6dfff3f0-29cc-4101-a95d-f6b12371fcd5" />
+
 # Deployment 
 
 
