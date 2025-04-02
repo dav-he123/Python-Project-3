@@ -21,14 +21,14 @@ MySql (Open source relational database management system)
 
 # Installing 
 
-Here is a series of step by step instructions how to get the SQL and development environment running.
+Here is a series of step by step instructions of how to get the SQL and development environment running.
 
 ```
 Installing MySQL Workbench:
 
-1. Go to dev.mysql.com/downloads/workbench/.com
+1. Go to https://dev.mysql.com/downloads/workbench/
 2. Click "Free Download".
-3. Follow through with the steps of installing MySQL to finish installation.
+3. Follow through with the steps of installing MySQL to finish the installation.
 ```
 ![Screenshot 2025-04-01 at 5 31 24 PM](https://github.com/user-attachments/assets/bec053db-cdbf-4620-876b-584c828b4910)
 
@@ -36,22 +36,22 @@ Installing MySQL Workbench:
 ```
 Installing anaconda:
 
-1. Go to www.anaconda.com
-2. Click "Free Download"
+1. Go to https://www.anaconda.com/
+2. Click "Free Download" as shown in the screenshot below.
 ```
 
 ![Screenshot 2025-04-01 at 4 48 14 PM](https://github.com/user-attachments/assets/dc7bd081-c1a1-4acd-9613-a9742b989d7a)
 
 ```
-3. Follow through with the steps of installing Anaconda to finish installation
+3. Follow through with the steps of installing Anaconda to finish the installation.
 ```
 
 ```
 Installing Jupyter Notebook in Anaconda environment:
 
 1. Go to Anaconda environment
-2. Search Jupyter Notebook and install it
-3. Click "Launch" to open Jupyter Notebook
+2. Search Jupyter Notebook and install it.
+3. Click "Launch" to open Jupyter Notebook.
 ```
 ![Screenshot 2025-04-01 at 4 58 45 PM](https://github.com/user-attachments/assets/2563ec23-5219-45db-bf5f-14b857f2762e)
 
