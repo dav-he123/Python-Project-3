@@ -135,7 +135,7 @@ This project is licensed and is under the property of David He - see the [LICENS
 
 # Acknowledgements 
 
-Many thanks to Prof. Omar Altrad for his  guidance in DATA 1202.
+Many thanks to Prof. Omar Al-Trad for his  guidance in DATA 1202.
 
 
 
