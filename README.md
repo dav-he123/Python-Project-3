@@ -71,9 +71,9 @@ The testing of Project 3 will begin in MySQL workbench using SQL commands.
 
 ## Breakdown of Tests
 ```
-1. An initial excel file containing the data for Video Game Sales is given.
-2. Convert the file into a CSV file
-3. Import the CSV file into MySQL by right clicking on the database being used and click on Table Data Import Wizard.
+1. An initial excel file containing the data for Video Game Sales is obtained.
+2. Convert the file into a CSV file.
+3. Import the CSV file into MySQL by right clicking on the database being used and click on Table Data Import Wizard as shown in the screenshot below.
 4. Follow through with the steps of loading the data of the CSV file into a table within the database in MySQL.
 ```
 <img width="379" alt="Screenshot 2025-04-01 at 5 34 34 PM" src="https://github.com/user-attachments/assets/2282fff7-0927-499e-aaf4-3793f3c790c0" />
