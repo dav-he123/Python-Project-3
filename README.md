@@ -88,7 +88,8 @@ After the data is loaded into a table in the database. The testing of the data c
 Testing first part of Project 3 to obtain average global sales before and after 2005:
 
 1. Type in SQL commands to obtain the average global sales before and after 2005.
-2. The required answer is displayed in the console in the bottom of the screenshot shown below.
+2. Execute the SQL command.
+3. The required answer is displayed in the console in the bottom of the screenshot shown below.
 ```
 <img width="1421" alt="Screenshot 2025-04-01 at 5 42 16 PM" src="https://github.com/user-attachments/assets/a500de6d-7fea-446f-93fa-bb7327175846" />
 
@@ -97,7 +98,8 @@ Testing first part of Project 3 to obtain average global sales before and after 
 Testing second part of Project 3 to add in column to display pre and post 2005 for the required records:
 
 1. Type in SQL commands to add in a column to display pre and post 2005 for the required records.
-2. The required answer is displayed in the console in the bottom of the screenshot shown below.
+2. Execute the SQL command.
+3. The required answer is displayed in the console in the bottom of the screenshot shown below.
 ```
 <img width="1429" alt="Screenshot 2025-04-01 at 5 56 55 PM" src="https://github.com/user-attachments/assets/7ff282d9-0027-4224-9734-1f4f00dbb6a7" />
 
