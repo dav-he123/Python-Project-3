@@ -56,12 +56,12 @@ Installing Jupyter Notebook in Anaconda environment:
 ![Screenshot 2025-04-01 at 4 58 45 PM](https://github.com/user-attachments/assets/2563ec23-5219-45db-bf5f-14b857f2762e)
 
 ```
-4. Wait a few seconds are launching Jupyter Notebook, the Home of Jupyter Notebook environment will display as shown in the screenshot below. Find the Project 3.ipynb in your folders where you saved it.
+4. Wait a few seconds after launching Jupyter Notebook, the Home of Jupyter Notebook environment will display as shown in the screenshot below. Find the Project 3.ipynb in your folder where you saved it.
 ```
 <img width="1231" alt="Screenshot 2025-04-01 at 5 05 37 PM" src="https://github.com/user-attachments/assets/60f9ed62-eb0c-4df9-8287-99ae160521b7" />
 
 ```
-5. Once you have found the file and open it. This is what will what you will see.
+5. Once you have found the file, please open it. This is what will what you will see.
 ```
 <img width="1308" alt="Screenshot 2025-04-01 at 5 14 22 PM" src="https://github.com/user-attachments/assets/b62da418-dc81-42fb-8c26-ec62e77654cd" />
 
