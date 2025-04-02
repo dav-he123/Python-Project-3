@@ -51,12 +51,12 @@ Installing Jupyter Notebook in Anaconda environment:
 
 1. Go to Anaconda environment
 2. Search Jupyter Notebook and install it.
-3. Click "Launch" to open Jupyter Notebook.
+3. Click "Launch" to open Jupyter Notebook as shown in the screenshot below.
 ```
 ![Screenshot 2025-04-01 at 4 58 45 PM](https://github.com/user-attachments/assets/2563ec23-5219-45db-bf5f-14b857f2762e)
 
 ```
-4. In the Jupyter Notebook environment find the Project 3.ipynb in your folders where you saved it.
+4. Wait a few seconds are launching Jupyter Notebook, the Home of Jupyter Notebook environment will display as shown in the screenshot below. Find the Project 3.ipynb in your folders where you saved it.
 ```
 <img width="1231" alt="Screenshot 2025-04-01 at 5 05 37 PM" src="https://github.com/user-attachments/assets/60f9ed62-eb0c-4df9-8287-99ae160521b7" />
 
