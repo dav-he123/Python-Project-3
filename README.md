@@ -67,7 +67,7 @@ Installing Jupyter Notebook in Anaconda environment:
 
 # Running the tests
 
-Below will be shown the explanation of running the automated tests for the Python file (Project 3). The testing will begin in MySQL workbench using SQL commands.
+The testing of Project 3 will begin in MySQL workbench using SQL commands.
 
 ## Breakdown of Tests
 ```
